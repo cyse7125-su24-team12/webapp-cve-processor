@@ -1,0 +1,5 @@
+README.md
+Jenkinsfile
+Dockerfile*
+data/*
+.gitignore
